@@ -1,9 +1,16 @@
 ### Hi 👋 I am Kuzma
 
+---
+
 ### About me
 I am PhD in Geophysics making transition to Data Science field.
 <br>
 I have diverse expirience in data gathering, data processing, modelling, model interpretation both in industry and academy.
+
+---
+
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-Kuzma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kuzmatsukanov/)
 
 <!--
 **kuzmatsukanov/kuzmatsukanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
