@@ -2,6 +2,8 @@
 
 ### About me
 I am PhD in Geophysics making transition to Data Science field.
+<br>
+I have diverse expirience in data gathering, data processing, modelling, model interpretation both in industry and academy.
 
 <!--
 **kuzmatsukanov/kuzmatsukanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
