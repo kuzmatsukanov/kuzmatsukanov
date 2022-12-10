@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 I am Kuzma
+
+### About me
+I am PhD in Geophysics making transition to Data Science field.
 
 <!--
 **kuzmatsukanov/kuzmatsukanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
