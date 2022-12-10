@@ -1,16 +1,16 @@
-### Hi 👋 I am Kuzma
+### Hi, I am Kuzma 👋
 
 ---
+
+[<img align="left" alt="kuzma | LinkedIn" width="22px" src="./linkedin.svg" />](https://www.linkedin.com/in/kuzmatsukanov/)
+[<img align="left" alt="kuzmatsukanov | Telegram" width="22px" src="./telegram.svg" />](https://t.me/kuzmatsukanov)
+<br>
 
 ### About me
 I am PhD in Geophysics making transition to Data Science field.
 <br>
 I have diverse expirience in data gathering, data processing, modelling, model interpretation both in industry and academy.
 
----
-
-### Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-Kuzma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kuzmatsukanov/)
 
 <!--
 **kuzmatsukanov/kuzmatsukanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
