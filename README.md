@@ -24,6 +24,7 @@ I have diverse expirience in data gathering, data processing, modelling, model i
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis_icon.svg" alt="qgis" width="40" height="40"/> </a>
 </p>
 
 <!--
