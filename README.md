@@ -7,9 +7,9 @@
 <br>
 
 <h3 align="left">About me</h3>
-I am PhD in Geophysics making transition to Data Science field.
+I am a PhD in Geophysics making a transition to the field of Data Science.
 <br>
-I have diverse expirience in data gathering, data processing, modelling, model interpretation both in industry and academy.
+I have diverse experience in data gathering, data processing, modeling, and model interpretation, both in industry and academia.
 
 ---
 
