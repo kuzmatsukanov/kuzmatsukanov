@@ -7,7 +7,7 @@
 <br>
 
 <h3 align="left">About me</h3>
-I am a Data Scientist and PhD in Geophysics.
+I hold a PhD in Geophysics.
 <br>
 I have diverse experience in data gathering, data processing, optimization, modeling, and model interpretation, both in industry and academia.
 
